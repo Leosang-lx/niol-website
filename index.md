@@ -6,6 +6,8 @@
 **NIOL** is the abbreviation of **Network Intelligence and Optimization Lab**, researches mainly focus on mobile edge computing, distributed learning and
 inference, network optimization and economics.
 
+![our_image](images/photo.jpg)
+
 
 {% 
   include section.html
