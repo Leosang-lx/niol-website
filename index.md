@@ -7,7 +7,11 @@ NIOL is the abbreviation of **Network Intelligence** and **Optimization Lab**, r
 inference, network optimization and economics.
 
 
-{% include section.html %}
+{% 
+  include section.html
+  background="images/background.jpg"
+  dark=false
+%}
 
 ## Highlights
 
