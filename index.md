@@ -87,3 +87,23 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   title="Our Team"
   text=text
 %}
+
+{%
+include button.html
+type="email"
+text="niol_sustech@163.com"
+link="niol_sustech@163.com"
+%}
+{%
+include button.html
+type="email"
+text="tangm3@sustech.edu.cn"
+link="tangm3@sustech.edu.cn"
+%}
+{%
+include button.html
+type="address"
+tooltip="Our location on Google Maps for easy navigation"
+text="Room 646A, Southern Tower of CoE"
+link="https://www.google.com/maps"
+%}
