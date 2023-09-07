@@ -3,7 +3,7 @@
 
 # NIO Lab Website
 
-**NIOL** is the abbreviation of **Network Intelligence and Optimization Lab**, researches mainly focus on mobile edge computing, distributed learning and
+**NIOL** is the abbreviation of **Network Intelligence and Optimization Lab**, relying on Southern University of Science and Technology (SUSTech), researches mainly focus on mobile edge computing, distributed learning and
 inference, network optimization and economics.
 
 ![our_image](images/photo.jpg)
