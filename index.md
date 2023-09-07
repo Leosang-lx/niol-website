@@ -3,7 +3,9 @@
 
 # NIO Lab Website
 
-An engaging 1-3 sentence description of your lab.
+NIOL is the abbreviation of **Network Intelligence** and **Optimization Lab**, our researches mainly focus on mobile edge computing, distributed learning and
+inference, network optimization and economics.
+
 
 {% include section.html %}
 
