@@ -22,7 +22,7 @@
         {% if svg %}
           {{ svg | file_read }}
         {% else %}
-          <img src="{{ logo | relative_url }}" alt="logo" width="50%">
+          <img src="{{ logo | relative_url }}" alt="logo">
         {% endif %}
       </span>
     {% endif %}
