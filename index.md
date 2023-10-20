@@ -11,7 +11,7 @@ inference, network optimization and economics.
 
 {% 
   include section.html
-  background="images/background.jpg"
+  background="images/sustech3.jpg"
   dark=false
 %}
 
@@ -19,7 +19,7 @@ inference, network optimization and economics.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our main research topics and publications.
 
 {%
   include button.html
@@ -42,7 +42,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Projects.
 
 {%
   include button.html
@@ -67,7 +67,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Team members and personal information。
 
 {%
   include button.html
